@@ -12,7 +12,7 @@ Practice creating Python programs to perform arithmetic and string operations, e
 
 - Addition (+)
 - Subtraction (-)
-- Multiplication (*)
+- Multiplication (\*)
 - Division (/)
 - Input validation for operations
 - Division by zero error handling
@@ -21,13 +21,14 @@ Practice creating Python programs to perform arithmetic and string operations, e
 ## How to Use
 
 1. Run the program:
+
    ```
    python basic_calculator.py
    ```
 
 2. Enter the first number when prompted
 3. Enter the second number when prompted
-4. Choose an operation (+, -, *, /)
+4. Choose an operation (+, -, \*, /)
 5. View the calculated result
 
 ## Example Usage
@@ -43,14 +44,6 @@ Enter an operation (+, -, *, /): +
 
 - Python 3.x
 - No additional packages required
-
-## Assignment Requirements Met
-
-✅ Create a simple Python program that asks for two numbers and a mathematical operation  
-✅ Perform the operation based on user's input and print the result  
-✅ Handle basic arithmetic operations (addition, subtraction, multiplication, division)  
-✅ Include error handling for division by zero  
-✅ Upload code to GitHub and submit the GitHub link  
 
 ## Author
 
